@@ -1,0 +1,18 @@
+# Exclude node_modules
+node_modules
+
+# Exclude any PSD/AI source
+*.psd
+*.ai
+
+# Exclude package-lock.json
+package-lock.json
+
+# OS generated files 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
